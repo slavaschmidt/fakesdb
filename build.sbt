@@ -17,5 +17,3 @@ libraryDependencies += "servletapi"  % "servletapi" % "2.4"
 libraryDependencies += "org.eclipse.jetty" % "jetty-webapp" % "8.0.0.RC0"
 
 libraryDependencies += "junit"  % "junit" % "4.8.2" % "test"
-
-libraryDependencies += "com.novocode" % "junit-interface" % "0.4.0" % "test"
